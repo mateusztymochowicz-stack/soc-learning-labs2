@@ -1,0 +1,8 @@
+Jan 12 10:01:01 server sshd[1001]: Failed password for root from 192.168.1.10 port 53422 ssh2
+Jan 12 10:01:05 server sshd[1002]: Failed password for root from 45.33.32.156 port 60012 ssh2
+Jan 12 10:01:07 server sshd[1003]: Failed password for root from 45.33.32.156 port 60113 ssh2
+Jan 12 10:01:09 server sshd[1004]: Failed password for root from 45.33.32.156 port 60221 ssh2
+Jan 12 10:01:11 server sshd[1005]: Accepted password for root from 45.33.32.156 port 60344 ssh2
+Jan 12 10:01:20 server sshd[1006]: Failed password for admin from 8.8.8.8 port 51000 ssh2
+Jan 12 10:01:22 server sshd[1007]: Failed password for admin from 8.8.8.8 port 51001 ssh2
+Jan 12 10:01:24 server sshd[1008]: Failed password for admin from 8.8.8.8 port 51002 ssh2
